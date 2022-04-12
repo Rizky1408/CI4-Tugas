@@ -5,7 +5,7 @@
 
 cloning gihtub ke dalam folder htdoc
 ```
-https://github.com/Rizky1408/CI4-Tugas
+git clone https://github.com/Rizky1408/CI4-Tugas
 ```
 
 copy ```env``` ke ```.env``` untuk konfigurasi <br>
